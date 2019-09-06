@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Desktop/opencv/MBZIRC/taskplanning/src/serialport/serialport.cpp
+serialport.h
+/root/Desktop/opencv/MBZIRC/taskplanning/src/serialport/serialport.h
+
+/root/Desktop/opencv/MBZIRC/taskplanning/src/serialport/serialport.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+cstring
+-
+string
+-
+iostream
+-
+fcntl.h
+-
+unistd.h
+-
+errno.h
+-
+sys/ioctl.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/select.h
+-
+assert.h
+-
+asm/ioctls.h
+-
+asm/termbits.h
+-
+
